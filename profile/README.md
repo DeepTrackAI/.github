@@ -9,7 +9,7 @@ DeepTrackAI is an open-source organization dedicated to advancing deep learning 
 ### [DeepLearningCrashCourse](https://github.com/DeepTrackAI/DeepLearningCrashCourse)
 A collection of Jupyter notebooks aimed at providing a comprehensive introduction to deep learning concepts and applications, with a focus on practical implementation.
 
-### [deeplay](https://github.com/DeepTrackAI/deeplay)
+### [Deeplay](https://github.com/DeepTrackAI/deeplay)
 An extension of PyTorch that enhances modularity and reusability in deep learning projects. deeplay addresses common challenges in PyTorch development by providing a system that allows for easy customization and optimization of neural network components.
 
 ### [DeepTrack2](https://github.com/DeepTrackAI/DeepTrack2)
