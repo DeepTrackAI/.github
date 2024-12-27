@@ -26,7 +26,3 @@ We welcome contributions from the community! Whether you're interested in develo
 ## Contact
 
 For inquiries or further information, please open an issue in the relevant repository or contact the project maintainers directly.
-
----
-
-Thank you for visiting DeepTrackAI! Together, let's advance the future of deep learning in microscopy.
