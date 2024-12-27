@@ -15,11 +15,6 @@ An extension of PyTorch that enhances modularity and reusability in deep learnin
 ### [DeepTrack2](https://github.com/DeepTrackAI/DeepTrack2)
 A Python library designed for the simulation and analysis of microscopy images using deep learning techniques. It offers a comprehensive suite of tools for creating synthetic datasets and training neural networks for particle tracking and image analysis.
 
-## Datasets
-
-### [cell_counting_dataset](https://github.com/DeepTrackAI/cell_counting_dataset)
-A curated dataset of fluorescence microscopy images for training and evaluating cell counting algorithms. This dataset serves as a valuable resource for developing and benchmarking deep learning models in bioimage analysis.
-
 ---
 
 ## Getting Involved
